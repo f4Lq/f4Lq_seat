@@ -1,9 +1,10 @@
 fx_version 'cerulean'
 lua54 'yes'
 game 'gta5'
-name 'falq_seat'
-author 'faLq'
-description 'Seat'
+name 'f4lq_seat'
+author 'f4Lq'
+description 'Possession in the vehicle. Using the /seat [vehicle seat] command.'
+
 version '1.1.0'
 
 
