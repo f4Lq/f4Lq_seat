@@ -1,10 +1,5 @@
 local maxSpeedKmh = 80 -- Maksymalna prędkość pojazdu w km/h
 
-RegisterNetEvent('f4LqNotify:Alert')
-AddEventHandler('f4LqNotify:Alert', function(title, message, time, type)
-    Alert(title, message, time, type)
-end)
-
 function Alert(title, message, time, type)
     -- Funkcja do wyświetlania powiadomienia
     print(title .. ": " .. message)
