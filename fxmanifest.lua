@@ -1,4 +1,4 @@
-fx_version 'cerulean'
+fx_version 'adamant'
 lua54 'yes'
 game 'gta5'
 name 'f4lq_seat'
