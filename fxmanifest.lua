@@ -7,7 +7,8 @@ description 'Possession in the vehicle. Using the /seat [vehicle seat] command.'
 
 version '1.1.0'
 
-
 client_script {
     'seat.lua',
 }
+
+dependency 'f4LqNotify'
